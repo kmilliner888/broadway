@@ -4,7 +4,7 @@ html {
 
 
 h1  {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   font-size: 70px;
   font-weight: bold;
   color: White;
@@ -12,14 +12,14 @@ h1  {
 
 
 h2  {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   font-size: 32px;
   font-weight: bold;
 }
 
 
 h3 {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   font-size: 23px;
   font-weight: bold;
 }
@@ -32,13 +32,13 @@ h3 {
 }
 
 p {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   font-size: 14px;
 }
 
 
 .footer {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   font-size: 11px;
   color: White;
   background-color: dimgray;
@@ -63,7 +63,7 @@ footer  {
 }
 
 a {
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
   font-size: 18px;
   color: white;
 }

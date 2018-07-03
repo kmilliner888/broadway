@@ -37,12 +37,24 @@ p {
 }
 
 
-#footer {
+.footer {
   font-family: Helvetica;
   font-size: 11px;
   color: White;
   background-color: dimgray;
+  list-style: none;
 }
+
+
+.footer li {
+  display: inline;
+}
+
+
+footer  {
+  text-align: left;
+}
+
 
 #landing  {
   background-image:
@@ -58,4 +70,8 @@ a {
 
 .menu  {
   list-style: none;
+}
+
+.menu li {
+  margin: 1em 0;
 }
